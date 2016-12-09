@@ -1,0 +1,73 @@
+D:\Ducthtps02536\Điện toán đám mây\Ass - Copy\ducthtps02536\bin\Debug\Ass.exe.config
+D:\Ducthtps02536\Điện toán đám mây\Ass - Copy\ducthtps02536\obj\Debug\Ass.exe
+D:\Ducthtps02536\Điện toán đám mây\Ass - Copy\ducthtps02536\obj\Debug\Ass.xml
+D:\Ducthtps02536\Điện toán đám mây\Ass - Copy\ducthtps02536\obj\Debug\Ass.pdb
+D:\Ducthtps02536\Điện toán đám mây\ducthtps02536\ducthtps02536\bin\Debug\Ass.exe.config
+D:\Ducthtps02536\Điện toán đám mây\ducthtps02536\ducthtps02536\obj\Debug\Ass.exe
+D:\Ducthtps02536\Điện toán đám mây\ducthtps02536\ducthtps02536\obj\Debug\Ass.xml
+D:\Ducthtps02536\Điện toán đám mây\ducthtps02536\ducthtps02536\obj\Debug\Ass.pdb
+D:\Ducthtps02536\Điện toán đám mây\ducthtps02536\ducthtps02536\bin\Debug\Ass.exe
+D:\Ducthtps02536\Điện toán đám mây\ducthtps02536\ducthtps02536\bin\Debug\Ass.pdb
+D:\Ducthtps02536\Điện toán đám mây\ducthtps02536\ducthtps02536\bin\Debug\Ass.xml
+D:\Ducthtps02536\Điện toán đám mây\ducthtps02536\ducthtps02536\obj\Debug\Ass.QLKH.resources
+D:\Ducthtps02536\Điện toán đám mây\ducthtps02536\ducthtps02536\obj\Debug\Ass.Main.resources
+D:\Ducthtps02536\Điện toán đám mây\ducthtps02536\ducthtps02536\obj\Debug\Ass.login.resources
+D:\Ducthtps02536\Điện toán đám mây\ducthtps02536\ducthtps02536\obj\Debug\Ass.Resources.resources
+D:\Ducthtps02536\Điện toán đám mây\ducthtps02536\ducthtps02536\obj\Debug\Ass.QLNV.resources
+D:\Ducthtps02536\Điện toán đám mây\ducthtps02536\ducthtps02536\obj\Debug\ducthtps02536.vbproj.GenerateResource.Cache
+C:\Users\PC01\Downloads\ducthtps02536_assignment_giaidoan2\ducthtps02536\ducthtps02536\bin\Debug\Ass.exe.config
+C:\Users\PC01\Downloads\ducthtps02536_assignment_giaidoan2\ducthtps02536\ducthtps02536\obj\Debug\Ass.exe
+C:\Users\PC01\Downloads\ducthtps02536_assignment_giaidoan2\ducthtps02536\ducthtps02536\obj\Debug\Ass.xml
+C:\Users\PC01\Downloads\ducthtps02536_assignment_giaidoan2\ducthtps02536\ducthtps02536\obj\Debug\Ass.pdb
+C:\Users\PC01\Downloads\ducthtps02536_assignment_giaidoan2\ducthtps02536\ducthtps02536\bin\Debug\Ass.exe
+C:\Users\PC01\Downloads\ducthtps02536_assignment_giaidoan2\ducthtps02536\ducthtps02536\bin\Debug\Ass.pdb
+C:\Users\PC01\Downloads\ducthtps02536_assignment_giaidoan2\ducthtps02536\ducthtps02536\bin\Debug\Ass.xml
+C:\Users\PC01\Downloads\ducthtps02536_assignment_giaidoan2\ducthtps02536\ducthtps02536\obj\Debug\Ass.QLKH.resources
+C:\Users\PC01\Downloads\ducthtps02536_assignment_giaidoan2\ducthtps02536\ducthtps02536\obj\Debug\Ass.Main.resources
+C:\Users\PC01\Downloads\ducthtps02536_assignment_giaidoan2\ducthtps02536\ducthtps02536\obj\Debug\Ass.login.resources
+C:\Users\PC01\Downloads\ducthtps02536_assignment_giaidoan2\ducthtps02536\ducthtps02536\obj\Debug\Ass.Resources.resources
+C:\Users\PC01\Downloads\ducthtps02536_assignment_giaidoan2\ducthtps02536\ducthtps02536\obj\Debug\Ass.QLNV.resources
+C:\Users\PC01\Downloads\ducthtps02536_assignment_giaidoan2\ducthtps02536\ducthtps02536\obj\Debug\ducthtps02536.vbproj.GenerateResource.Cache
+C:\Users\Admin\Downloads\Documents\ducthtps02536_assignment_giaidoan2\ducthtps02536\ducthtps02536\bin\Debug\Ass.exe.config
+C:\Users\Admin\Downloads\Documents\ducthtps02536_assignment_giaidoan2\ducthtps02536\ducthtps02536\obj\Debug\Ass.exe
+C:\Users\Admin\Downloads\Documents\ducthtps02536_assignment_giaidoan2\ducthtps02536\ducthtps02536\obj\Debug\Ass.xml
+C:\Users\Admin\Downloads\Documents\ducthtps02536_assignment_giaidoan2\ducthtps02536\ducthtps02536\obj\Debug\Ass.pdb
+C:\Users\Admin\Downloads\Documents\ducthtps02536_assignment_giaidoan2\ducthtps02536\ducthtps02536\bin\Debug\Ass.exe
+C:\Users\Admin\Downloads\Documents\ducthtps02536_assignment_giaidoan2\ducthtps02536\ducthtps02536\bin\Debug\Ass.pdb
+C:\Users\Admin\Downloads\Documents\ducthtps02536_assignment_giaidoan2\ducthtps02536\ducthtps02536\bin\Debug\Ass.xml
+C:\Users\Admin\Downloads\Documents\ducthtps02536_assignment_giaidoan2\ducthtps02536\ducthtps02536\obj\Debug\Ass.Main.resources
+C:\Users\Admin\Downloads\Documents\ducthtps02536_assignment_giaidoan2\ducthtps02536\ducthtps02536\obj\Debug\Ass.login.resources
+C:\Users\Admin\Downloads\Documents\ducthtps02536_assignment_giaidoan2\ducthtps02536\ducthtps02536\obj\Debug\Ass.Resources.resources
+C:\Users\Admin\Downloads\Documents\ducthtps02536_assignment_giaidoan2\ducthtps02536\ducthtps02536\obj\Debug\ducthtps02536.vbproj.GenerateResource.Cache
+C:\Users\Admin\Downloads\Documents\ducthtps02536_assignment_giaidoan2\ducthtps02536\ducthtps02536\obj\Debug\Ass.Quanlykhachhang.resources
+C:\Users\Admin\Downloads\Documents\ducthtps02536_assignment_giaidoan2\ducthtps02536\ducthtps02536\obj\Debug\Ass.Quanlynhanvien.resources
+C:\Users\Admin\Downloads\Documents\ducthtps02536_assignment_giaidoan2 - Copy\ducthtps02536\ducthtps02536\bin\Debug\Ass.exe.config
+C:\Users\Admin\Downloads\Documents\ducthtps02536_assignment_giaidoan2 - Copy\ducthtps02536\ducthtps02536\obj\Debug\Ass.exe
+C:\Users\Admin\Downloads\Documents\ducthtps02536_assignment_giaidoan2 - Copy\ducthtps02536\ducthtps02536\obj\Debug\Ass.xml
+C:\Users\Admin\Downloads\Documents\ducthtps02536_assignment_giaidoan2 - Copy\ducthtps02536\ducthtps02536\obj\Debug\Ass.pdb
+C:\Users\Admin\Downloads\Documents\ducthtps02536_assignment_giaidoan2 - Copy\ducthtps02536\ducthtps02536\bin\Debug\Ass.exe
+C:\Users\Admin\Downloads\Documents\ducthtps02536_assignment_giaidoan2 - Copy\ducthtps02536\ducthtps02536\bin\Debug\Ass.pdb
+C:\Users\Admin\Downloads\Documents\ducthtps02536_assignment_giaidoan2 - Copy\ducthtps02536\ducthtps02536\bin\Debug\Ass.xml
+C:\Users\Admin\Downloads\Documents\ducthtps02536_assignment_giaidoan2 - Copy\ducthtps02536\ducthtps02536\obj\Debug\Ass.Main.resources
+C:\Users\Admin\Downloads\Documents\ducthtps02536_assignment_giaidoan2 - Copy\ducthtps02536\ducthtps02536\obj\Debug\Ass.login.resources
+C:\Users\Admin\Downloads\Documents\ducthtps02536_assignment_giaidoan2 - Copy\ducthtps02536\ducthtps02536\obj\Debug\Ass.Resources.resources
+C:\Users\Admin\Downloads\Documents\ducthtps02536_assignment_giaidoan2 - Copy\ducthtps02536\ducthtps02536\obj\Debug\Ass.Quanlykhachhang.resources
+C:\Users\Admin\Downloads\Documents\ducthtps02536_assignment_giaidoan2 - Copy\ducthtps02536\ducthtps02536\obj\Debug\Ass.Quanlynhanvien.resources
+C:\Users\Admin\Downloads\Documents\ducthtps02536_assignment_giaidoan2 - Copy\ducthtps02536\ducthtps02536\obj\Debug\ducthtps02536.vbproj.GenerateResource.Cache
+D:\ducthtps02536_assignment_final\ducthtps02536\ducthtps02536\bin\Debug\Ass.exe.config
+D:\ducthtps02536_assignment_final\ducthtps02536\ducthtps02536\obj\Debug\Ass.exe
+D:\ducthtps02536_assignment_final\ducthtps02536\ducthtps02536\obj\Debug\Ass.xml
+D:\ducthtps02536_assignment_final\ducthtps02536\ducthtps02536\obj\Debug\Ass.pdb
+E:\FPT\Điện Toán Đám Mây\ducthtps02536_assignment_final\ducthtps02536\ducthtps02536\bin\Debug\Ass.exe.config
+E:\FPT\Điện Toán Đám Mây\ducthtps02536_assignment_final\ducthtps02536\ducthtps02536\obj\Debug\Ass.exe
+E:\FPT\Điện Toán Đám Mây\ducthtps02536_assignment_final\ducthtps02536\ducthtps02536\obj\Debug\Ass.xml
+E:\FPT\Điện Toán Đám Mây\ducthtps02536_assignment_final\ducthtps02536\ducthtps02536\obj\Debug\Ass.pdb
+E:\FPT\Điện Toán Đám Mây\ducthtps02536_assignment_final\ducthtps02536\ducthtps02536\bin\Debug\Ass.exe
+E:\FPT\Điện Toán Đám Mây\ducthtps02536_assignment_final\ducthtps02536\ducthtps02536\bin\Debug\Ass.pdb
+E:\FPT\Điện Toán Đám Mây\ducthtps02536_assignment_final\ducthtps02536\ducthtps02536\bin\Debug\Ass.xml
+E:\FPT\Điện Toán Đám Mây\ducthtps02536_assignment_final\ducthtps02536\ducthtps02536\obj\Debug\Ass.Main.resources
+E:\FPT\Điện Toán Đám Mây\ducthtps02536_assignment_final\ducthtps02536\ducthtps02536\obj\Debug\Ass.login.resources
+E:\FPT\Điện Toán Đám Mây\ducthtps02536_assignment_final\ducthtps02536\ducthtps02536\obj\Debug\Ass.Resources.resources
+E:\FPT\Điện Toán Đám Mây\ducthtps02536_assignment_final\ducthtps02536\ducthtps02536\obj\Debug\Ass.Quanlykhachhang.resources
+E:\FPT\Điện Toán Đám Mây\ducthtps02536_assignment_final\ducthtps02536\ducthtps02536\obj\Debug\Ass.Quanlynhanvien.resources
+E:\FPT\Điện Toán Đám Mây\ducthtps02536_assignment_final\ducthtps02536\ducthtps02536\obj\Debug\ducthtps02536.vbproj.GenerateResource.Cache

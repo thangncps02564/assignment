@@ -1,0 +1,28 @@
+D:\(o_o)_Ducthtps02536_(o_o)\Điện toán đám mây\Ass\Ass\bin\Debug\Ass.exe.config
+D:\(o_o)_Ducthtps02536_(o_o)\Điện toán đám mây\Ass\Ass\bin\Debug\Ass.exe
+D:\(o_o)_Ducthtps02536_(o_o)\Điện toán đám mây\Ass\Ass\bin\Debug\Ass.pdb
+D:\(o_o)_Ducthtps02536_(o_o)\Điện toán đám mây\Ass\Ass\bin\Debug\Ass.xml
+D:\(o_o)_Ducthtps02536_(o_o)\Điện toán đám mây\Ass\Ass\obj\Debug\Ass.Resources.resources
+D:\(o_o)_Ducthtps02536_(o_o)\Điện toán đám mây\Ass\Ass\obj\Debug\Ass.vbproj.GenerateResource.Cache
+D:\(o_o)_Ducthtps02536_(o_o)\Điện toán đám mây\Ass\Ass\obj\Debug\Ass.exe
+D:\(o_o)_Ducthtps02536_(o_o)\Điện toán đám mây\Ass\Ass\obj\Debug\Ass.xml
+D:\(o_o)_Ducthtps02536_(o_o)\Điện toán đám mây\Ass\Ass\obj\Debug\Ass.pdb
+D:\(o_o)_Ducthtps02536_(o_o)\Điện toán đám mây\Ass\Ass\obj\Debug\Ass.frmQuanly.resources
+D:\(o_o)_Ducthtps02536_(o_o)\Điện toán đám mây\Ass\Ass\obj\Debug\Ass.frmlogin.resources
+D:\Ducthtps02536\Điện toán đám mây\Ass\Ass\bin\Debug\Ass.exe.config
+D:\Ducthtps02536\Điện toán đám mây\Ass\Ass\obj\Debug\Ass.exe
+D:\Ducthtps02536\Điện toán đám mây\Ass\Ass\obj\Debug\Ass.xml
+D:\Ducthtps02536\Điện toán đám mây\Ass\Ass\obj\Debug\Ass.pdb
+D:\Ducthtps02536\Điện toán đám mây\Ass\Ass\bin\Debug\Ass.exe
+D:\Ducthtps02536\Điện toán đám mây\Ass\Ass\bin\Debug\Ass.pdb
+D:\Ducthtps02536\Điện toán đám mây\Ass\Ass\bin\Debug\Ass.xml
+D:\Ducthtps02536\Điện toán đám mây\Ass\Ass\obj\Debug\Ass.Main.resources
+D:\Ducthtps02536\Điện toán đám mây\Ass\Ass\obj\Debug\Ass.login.resources
+D:\Ducthtps02536\Điện toán đám mây\Ass\Ass\obj\Debug\Ass.Resources.resources
+D:\Ducthtps02536\Điện toán đám mây\Ass\Ass\obj\Debug\Ass.vbproj.GenerateResource.Cache
+D:\Ducthtps02536\Điện toán đám mây\Ass\Ass\obj\Debug\Ass.QLNV.resources
+D:\Ducthtps02536\Điện toán đám mây\Ass\Ass\obj\Debug\Ass.QLKH.resources
+D:\Ducthtps02536\Điện toán đám mây\Ass - Copy\Ass\bin\Debug\Ass.exe.config
+D:\Ducthtps02536\Điện toán đám mây\Ass - Copy\Ass\obj\Debug\Ass.exe
+D:\Ducthtps02536\Điện toán đám mây\Ass - Copy\Ass\obj\Debug\Ass.xml
+D:\Ducthtps02536\Điện toán đám mây\Ass - Copy\Ass\obj\Debug\Ass.pdb
